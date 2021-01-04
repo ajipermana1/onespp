@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"ba",
+				"background-clip\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"border-s",
+				"border-spacing\tproperty"
+			],
+			[
+				"border",
+				"border-collapse\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"bord",
+				"border-top\tproperty"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"inline",
+				"inline-table\tdisplay"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"cen",
+				"Cencel"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"tect",
+				"text-decoration\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"fo",
+				"font-variant-position\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"bakground",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"card",
+				"card-title"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"b",
+				"border-radius\tproperty"
+			],
+			[
+				"bag",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"l",
+				"legend\tTag"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"bold",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"backgroun",
+				"background-image\tproperty"
+			],
+			[
+				"styl",
+				"style1"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: HTML (Erlang)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/firstweb_1/style.css",
+		"/C/xampp/htdocs/firstweb_1/index.html",
+		"/C/Users/acer/Documents/Layout4.html",
+		"/C/xampp/htdocs/Iseng_16/LAYOUT7.html",
+		"/C/xampp/htdocs/Iseng_16/Formulir.html",
+		"/C/xampp/htdocs/Iseng_16/LOYOUT2.html",
+		"/C/Users/acer/Desktop/DirumahAja/style.css",
+		"/C/Users/acer/Desktop/DirumahAja/index.html",
+		"/C/Users/acer/Desktop/HalamanLogin_7/Login.html",
+		"/D/projectAY_16/style.css",
+		"/C/xampp/htdocs/aji_16/style.css",
+		"/C/xampp/htdocs/aji_16/index.html",
+		"/C/Users/acer/Documents/05. Aji Permana/FormulirAji.html",
+		"/C/xampp/htdocs/AjiIndriyani_16/indexs.html",
+		"/D/AjiIndriyani_16/style.css",
+		"/C/xampp/htdocs/AjiIndriyani_16/gaya.css",
+		"/C/xampp/htdocs/aji_16/home.html",
+		"/C/xampp/htdocs/Iseng_16/LAYOUT3.html",
+		"/C/xampp/htdocs/Iseng_16/LAYOUT6.html",
+		"/C/xampp/htdocs/Iseng_16/Layout5.html",
+		"/C/Users/acer/Documents/iseng.html",
+		"/C/Users/acer/Documents/LOYOUT1.html",
+		"/C/Users/acer/Documents/01.CSS",
+		"/C/xampp/htdocs/Iseng_16/LOYOUT1.html",
+		"/C/xampp/htdocs/coba_1/index.html",
+		"/C/xampp/htdocs/coba_1/home.html",
+		"/C/xampp/htdocs/coba_1/style.css",
+		"/C/xampp/htdocs/permana.html",
+		"/C/xampp/htdocs/yuni_16/style.css",
+		"/C/xampp/htdocs/yuni_16/index.html",
+		"/C/xampp/htdocs/yuni_16/home.html",
+		"/C/xampp/htdocs/yuni_16/index.php",
+		"/C/Users/acer/Documents/index.php",
+		"/C/Users/acer/Documents/Custom Office Templates/jajal.py",
+		"/C/Users/acer/Documents/style.CSS",
+		"/C/Users/acer/Documents/nyoba2.html",
+		"/C/Users/acer/Documents/ay.html",
+		"/C/Users/acer/Documents/kedua.html",
+		"/C/Users/acer/Documents/index.html",
+		"/C/Users/acer/Documents/nyoba.html",
+		"/C/Users/acer/Documents/Aji Permana/index.html",
+		"/C/Users/acer/Documents/Latihan.html",
+		"/C/Users/acer/Documents/index.htm",
+		"/C/Users/acer/Documents/tes.html",
+		"/C/Users/acer/Downloads/[3.63 MB] Download Lagu Sia - Chandelier MP3 - GRATIS Cepat Mudah_files/2vjPBrBU-TM.html",
+		"/C/Users/acer/Documents/index.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\acer\\Documents\\style.CSS"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
